@@ -1,0 +1,21 @@
+1. Get me IP address of particular domain (guvi.in) 
+2. How do I find my CPU/memory usage of my server? 
+3. Test the connectivity between 2 nodes? 
+4. I have deployed an application in guvi.com:9000, and logs shows my app is running, but I’m unable to 
+view the page. Check whether my port is open or not ?"
+
+
+
+1.C:\Users\SIVARAM>nslookup guvi.in
+Server:  UnKnown
+Address:  2401:4900:50:9::76
+
+Non-authoritative answer:
+Name:    guvi.in
+Addresses:  2606:4700:976f:101b:b80d:b:7e7b:e151
+          172.67.144.22
+          104.21.95.95
+		  
+2. CPU Memory has been checked using top command
+3. Tested connectivity between 2 nodes using ping command.
+4. Ports checked.
